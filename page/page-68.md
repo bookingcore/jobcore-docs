@@ -1,5 +1,5 @@
 <p>The vendor can manage any existing Orders they have in their portal using their reports list:</p>
-<p><img src="/assets/images/e22b7243bada548f35d9e3b0fc665c36.png" alt="" width="1295" height="618" /></p>
+<p>" alt="" width="1295" height="618" /></p>
 <ul>
 <li>In your BookingCore account, navigate to <strong>Manage Hotel &gt; Booking Reports</strong>, you can see Hotel Report</li>
 <li>Your reports are grouped by different statuses. To filter your reports by status, select one of the following statuses in the left bar</li>
@@ -13,5 +13,5 @@
 <li>UNPAID: this status will be set if while paying process, the customer suddenly cancelled</li>
 <li>PARTIAL PAYMENT: this status is for the deposit amount</li>
 </ol>
-<li>Your Vendor role can do <strong>Action</strong>, set their Booking status if from Admin Dashboard allows the vendor to set their Booking Status<img src="/assets/images/785a3fb3d2fd588f229b9d07af1c36a5.png" alt="" width="860" height="254" /></li>
+<li>Your Vendor role can do <strong>Action</strong>, set their Booking status if from Admin Dashboard allows the vendor to set their Booking Status" alt="" width="860" height="254" /></li>
 </ul>

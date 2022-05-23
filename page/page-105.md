@@ -1,6 +1,6 @@
 <h4>2. Create Flight-Ticket</h4>
 <p>Navigate to <strong>Dashboard &gt; Flight &gt; Add new Flight</strong>, then Add some information like: Name, Code, Attribute for Flight..</p>
-<p><img src="/assets/images/eec20f3a31b737cc69982f3f1aa70188.png" alt="" width="1006" height="417" /></p>
+<p>" alt="" width="1006" height="417" /></p>
 <ol>
 <li><strong>Name</strong>: input the Flight name</li>
 <li><strong>Code</strong>: input the Flight code</li>
@@ -14,7 +14,7 @@
 </li>
 <li><strong>Flight Attribute </strong>: Select the Flight Utilities, Flight Type, Inflight Experience</li>
 </ol>
-<p><img src="/assets/images/854171984b35e3e892378a2c5c05c88b.png" alt="" width="1110" height="924" /></p>
+<p>" alt="" width="1110" height="924" /></p>
 <h5><a>Create Flight ticket type</a></h5>
 <p><iframe title="YouTube video player" src="https://www.youtube.com/embed/3Nkc5CgaVOU" width="860" height="515" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <p>&nbsp;</p>

@@ -7,4 +7,4 @@
 <li>The pass will be "admin123"</li>
 <li>After login to the Dashboard (yourlink/admin), you can update password as the normal</li>
 </ol>
-<p><a href="/uploads/0000/1/2021/01/08/changepass.png"><img src="/assets/images/641657558f0c14c230149abe78571cf4.png" alt="" width="1297" height="472" /></a></p>
+<p><a href="/uploads/0000/1/2021/01/08/changepass.png">" alt="" width="1297" height="472" /></a></p>

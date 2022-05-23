@@ -34,7 +34,7 @@
 <p><img src="/assets/images/a592005711e3618657532c84613e47c3.png" /></p>
 <p>&nbsp;</p>
 <h4>* From Vendor Dashboard</h4>
-<p><img class="size-full" src="/assets/images/6c19ee01c22924b5d705dbba15e21c10.png" /></p>
+<p>" /></p>
 <p>Booking Report in Vendor Dashboard</p>
 <p><img class="size-full" src="/assets/images/0bc2d94b81c9a809f0c8035a85f71e0e.png" /></p>
 <p>&nbsp;</p>

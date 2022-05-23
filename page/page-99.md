@@ -2,7 +2,7 @@
 <p>It is generally a good idea to encrypt traffic to your website. Do this by using HTTPS for your website. There are many benefits to moving to HTTPS. It also gives visitors to your site a feeling of security and trust.</p>
 <p>Open your<strong>&nbsp;.env file</strong>&nbsp;then add the code:&nbsp;<code>APP_HTTPS=true</code>&nbsp;to enable HTTPS&nbsp;</p>
 <p>&nbsp;</p>
-<p><img src="/assets/images/911360f74b0866e4114c1f9dd64b77f6.png" alt="" width="817" height="387" /></p>
+<p>" alt="" width="817" height="387" /></p>
 <p>&nbsp;</p>
 <p><strong>2. Enable auto redirect to HTTPS in .htaccess file</strong></p>
 <pre class="language-markup"><code>AddHandler application/x-httpd-php80 php

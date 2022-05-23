@@ -1,1 +1,0 @@
-## BeCommerce Document Version: 1.0

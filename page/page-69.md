@@ -11,5 +11,5 @@
 <li>PARTIAL PAYMENT: this status is for the deposit amount</li>
 </ol>
 <ul>
-<li>Your Vendor role can do <strong>Action</strong>, set their Booking status if from Admin Dashboard allows the vendor to set their Booking Status<img src="/assets/images/785a3fb3d2fd588f229b9d07af1c36a5.png" alt="" width="860" height="254" /></li>
+<li>Your Vendor role can do <strong>Action</strong>, set their Booking status if from Admin Dashboard allows the vendor to set their Booking Status" alt="" width="860" height="254" /></li>
 </ul>

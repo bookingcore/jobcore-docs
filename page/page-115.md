@@ -1,7 +1,7 @@
 <p>Looking at this information, we can see the total revenue and income of the admin, so how are these numbers calculated, please refer to this article for a better overview.</p>
 <p><strong>&nbsp;Revenue = total order amount&nbsp;</strong></p>
 <p><strong>&nbsp; Earning =&nbsp;</strong><strong> total commission completed order amount</strong></p>
-<p><strong><img src="/assets/images/7701bdd9455042aa90e959906b09d9bd.png" alt="" width="900" height="431" /></strong></p>
+<p><strong>" alt="" width="900" height="431" /></strong></p>
 <p>&nbsp;<strong>Admin Earning</strong> <strong>=&nbsp; Commission + Booking Fee</strong></p>
 <p>How to set commission?&nbsp;</p>
 <p><em>Read more here:</em> <a href="/knowleagebase/vendor-settings">https://bookingcore.org/knowleagebase/vendor-settings</a></p>

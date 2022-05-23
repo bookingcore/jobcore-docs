@@ -3,7 +3,7 @@
 <p><strong>1. HTTPS</strong></p>
 <p>It is generally a good idea to encrypt traffic to your website. Do this by using HTTPS for your website. There are many benefits to moving to HTTPS. It also gives visitors to your site a feeling of security and trust.</p>
 <p>Open your<strong> .env file</strong> then add the code: <code>APP_HTTPS=true</code> to enable HTTPS&nbsp;</p>
-<p><img style="float: right;" src="/assets/images/5c5885b8de553248f1e95ed58ef78d56.png" alt="" width="356" height="318" /></p>
+<p>" alt="" width="356" height="318" /></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -17,13 +17,13 @@
 <p>It's necessary to notify users on your site that your website collects cookies.&nbsp;</p>
 <p><em><a href="/knowleagebase/what-is-a-cookie" target="_blank" rel="noopener">What is a cookie?</a></em></p>
 <p>To enable the cookie go to <strong>Settings &gt; Advanced Settings &gt; Cookkie Agreement</strong>:</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/assets/images/341ed6cbf274ec5bd275a5dc917d6600.png" alt="" width="1181" height="464" /></p>
-<p><img src="/assets/images/74040d7773e85b6272e331fb374178f5.png" alt="" width="672" height="98" /></p>
+<p>" alt="" width="1181" height="464" /></p>
+<p>" alt="" width="672" height="98" /></p>
 <p><strong>3. Contact forms</strong></p>
 <p>Users need to be aware that your site will collect their data when they use your contact form. This is the case with any other form on your site such as a registration form or opt-in form.</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/assets/images/7c4b21fbd5bcf669c6f8a2829aa4d961.png" alt="" width="504" height="493" /></p>
+<p>" alt="" width="504" height="493" /></p>
 <p>Or Booking Submittion form</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/assets/images/5e0b6eb572722d6b9a5a2adc6bcc217e.png" alt="" width="668" height="545" /></p>
+<p>" alt="" width="668" height="545" /></p>
 <p>You can see a tick box so that users can click on it to confirm that they accept your terms of service when they click submit. The tick box is not checked beforehand. Users need to click on it to give explicit consent.</p>
 <p><a href="/knowleagebase/how-to-build-the-terms-and-conditions-page" target="_blank" rel="noopener">How to build the "Terms and conditions" page?</a>&nbsp;</p>
 <p><strong>4. Analytics, tracking and remarketing</strong></p>
