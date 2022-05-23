@@ -18,17 +18,17 @@ FREE and Open-source Ecommerce platform to build and run your business.
 
 ## Payment Gateways:
 
-#### &#x20;Paypal Express
+1. Paypal Express
 
-#### &#x20;Stripe Checkout
+2. Stripe Checkout
 
-#### &#x20;Two Checkout
+3. Two Checkout
 
-#### &#x20;Paypal Pro
+4. Paypal Pro
 
-#### &#x20;Flutterwave Payment
+5. Flutterwave Payment
 
-#### &#x20;Razorpay
+6. Razorpay
 
 ### Homepage: [https://be-commerce.org](https://be-commerce.org)
 
