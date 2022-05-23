@@ -1,0 +1,1 @@
+<p><img src="" alt="" width="720" height="598" /></p>

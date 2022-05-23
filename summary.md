@@ -2,117 +2,136 @@
 
 ## Boat Manager
 
-* Create New Boat (page/page-109.md)
-* Boat's Attributes (page/page-110.md)
-* Boat Management (page/page-111.md)
-* Boat Settings (page/page-112.md)
+* [Create New Boat](page/page-create-new-boat.md)
+* [Boat's Attributes](page/page-boats-attributes.md)
+* [Boat Management](page/page-boat-management.md)
+* [Boat Settings](page/page-boat-settings.md)
+
 ## Hotel Manager
 
-* 1. Hotel manager (page/page-42.md)
-* 2. Create Hotel-Room (page/page-43.md)
-* 3. Create Room for Hotel (page/page-44.md)
+* [1. Hotel manager](page/page-1-hotel-manager.md)
+* [2. Create Hotel-Room](page/page-2-create-hotel-room.md)
+* [3. Create Room for Hotel](page/page-3-create-room-for-hotel.md)
+
 ## Space Manager
 
-* 1. Space manager (page/page-51.md)
-* Create New Space (page/page-52.md)
-* 3. Space's Attributes (page/page-53.md)
+* [1. Space manager](page/page-1-space-manager.md)
+* [Create New Space](page/page-create-new-space.md)
+* [3. Space's Attributes](page/page-3-spaces-attributes.md)
+
 ## Car Manager
 
-* 1. Car manager (page/page-48.md)
-* 2. Create New Car (page/page-49.md)
-* Car's Attributes (page/page-50.md)
+* [1. Car manager](page/page-1-car-manager.md)
+* [2. Create New Car](page/page-2-create-new-car.md)
+* [Car's Attributes](page/page-car-attributes.md)
+
 ## Tour Manager
 
-* Tour manager (page/page-45.md)
-* Tour's Category (page/page-46.md)
-* Tour's Attributes (page/page-47.md)
-* Create New Tour (page/page-77.md)
-* Popup Module (page/page-128.md)
+* [Tour manager](page/page-tour-manager.md)
+* [Tour's Category](page/page-3-tours-category.md)
+* [Tour's Attributes](page/page-4-tours-attributes.md)
+* [Create New Tour](page/page-create-new-tour.md)
+* [Popup Module](page/page-popup-module.md)
+
 ## Location
 
-* Location Manage (page/page-62.md)
-* Create List Location (page/page-64.md)
-* Google Location for searching (page/page-87.md)
+* [Location Manage](page/page-location-manage.md)
+* [Create List Location](page/page-create-list-location.md)
+* [Google Location for searching](page/page-google-location-for-searching.md)
+
 ## News
 
-* News Settings (page/page-12.md)
-* Creating News Post (page/page-66.md)
-* Create News section (page/page-67.md)
+* [News Settings](page/page-news-settings.md)
+* [Creating News Post](page/page-creating-news-post.md)
+* [Create News section](page/page-create-news-section.md)
+
 ## User Manager
 
-* User management (page/page-56.md)
-* Roles management (page/page-58.md)
-* Subscribles management (page/page-59.md)
-* Live Chat (page/page-90.md)
-* 2FA with Google Authenticator (page/page-126.md)
+* [User management](page/page-user-management.md)
+* [Roles management](page/page-roles-management.md)
+* [Subscribles management](page/page-subscribles-management.md)
+* [Live Chat](page/page-live-chat.md)
+* [2FA with Google Authenticator](page/page-2fa-google-authenticator.md)
+
 ## Vendor Manager
 
-* Register New Vendor (page/page-54.md)
-* Vendor Payout (page/page-55.md)
-* Verify Vendor (page/page-57.md)
-* Vendor Report (page/page-68.md)
-* Understanding Vendor Dashboard (page/page-116.md)
+* [Register New Vendor](page/page-register-new-vendor.md)
+* [Vendor Payout](page/page-vendor-payout.md)
+* [Verify Vendor](page/page-verify-vendor.md)
+* [Vendor Report](page/page-vendor-report.md)
+* [Understanding Vendor Dashboard](page/page-understanding-vendor-dashboard.md)
+
 ## Review Manager
 
-* Review manager (page/page-72.md)
+* [Review manager](page/page-review-manager.md)
+
 ## Report
 
-* Booking Report (page/page-69.md)
-* Booking Statistic (page/page-70.md)
-* Contact Submissions (page/page-71.md)
-* Notification feature (page/page-89.md)
+* [Booking Report](page/page-booking-report.md)
+* [Booking Statistic](page/page-booking-statistic.md)
+* [Contact Submissions](page/page-contact-submissions.md)
+* [Notification feature](page/page-notification-feature.md)
+
 ## Language
 
-* Multi-language (page/page-60.md)
-* Translations management (page/page-61.md)
-* Languages management (page/page-63.md)
-* Update + Backup Language files (page/page-91.md)
+* [Multi-language](page/page-multi-language.md)
+* [Translations management](page/page-translations-management.md)
+* [Languages management](page/page-languages-management.md)
+* [Update + Backup Language files](page/page-update-backup-language-files.md)
+
 ## Room Manager
+
 
 ## Change log
 
-* Change log version 1.7.0 (page/page-73.md)
-* Change log version 180 (page/page-85.md)
-* Change log Version 190 - Dec 15th -2020 (page/page-88.md)
-* Change log Version 2.0 - May15th - 2021 (page/page-97.md)
-* Import new layout (page/page-98.md)
-* Change log Version 2.1 - AUG 12- 2021 (page/page-100.md)
-* Version 2.2.0 October 08 - 2021 (page/page-123.md)
-* Version 2.3.0 Nov 26 – 2021 (page/page-124.md)
-* Version 2.4.0 February 24 – 2022 (page/page-125.md)
+* [Change log version 1.7.0](page/page-change-log-version-170.md)
+* [Change log version 180](page/page-change-log-version-180.md)
+* [Change log Version 190 - Dec 15th -2020](page/page-change-log-version-190.md)
+* [Change log Version 2.0 - May15th - 2021](page/page-change-log-version-20.md)
+* [Import new layout](page/page-import-new-layout.md)
+* [Change log Version 2.1 - AUG 12- 2021](page/page-change-log-version-21-aug-12-2021.md)
+* [Version 2.2.0 October 08 - 2021](page/page-version-220-october-08-2021.md)
+* [Version 2.3.0 Nov 26 – 2021](page/page-230-nov-26-2021.md)
+* [Version 2.4.0 February 24 – 2022](page/page-240-feb-24-2022.md)
+
 ## Event Management
 
-* Create new Event (page/page-74.md)
-* Event list (page/page-75.md)
-* Event Attribute (page/page-76.md)
+* [Create new Event](page/page-create-new-event.md)
+* [Event list](page/page-event-list.md)
+* [Event Attribute](page/page-event-attribute.md)
+
 ## FAQ's
 
-* How to use verify phone number? (page/page-78.md)
-* Why and How to resolve the /public folder in the link? (page/page-79.md)
-* ICAL (page/page-80.md)
-* GDPR Compliance Setting for Bookingcore (page/page-82.md)
-* How to build the "Terms and conditions" page? (page/page-83.md)
-* What is a cookie? (page/page-84.md)
-* Update password from the PHPMyAdmin (page/page-92.md)
-* How to increase the Server Memory Limit (page/page-93.md)
-* How can I add new menu item in the Admin Dashboard (page/page-94.md)
-* Why I cant add link URL to Facebook domain? (page/page-95.md)
-* How enable the HTTPs (page/page-99.md)
-* What is Booking fee? (page/page-114.md)
-* The revenue & the earning in the dashboard? (page/page-115.md)
-* Recommended images size for Mytravel script (page/page-117.md)
-* IS IT POSSIBLE TO ADD GOOGLE ANALYTICS TO MY SITES? (page/page-118.md)
+* [How to use verify phone number?](page/page-how-to-use-verify-phone-number.md)
+* [Why and How to resolve the /public folder in the link?](page/page-why-and-how-to-resolve-the-public-folder-in-the-link.md)
+* [ICAL](page/page-ical.md)
+* [GDPR Compliance Setting for Bookingcore](page/page-gdpr-compliance-setting-for-bookingcore.md)
+* [How to build the "Terms and conditions" page?](page/page-how-to-build-the-terms-and-conditions-page.md)
+* [What is a cookie?](page/page-what-is-a-cookie.md)
+* [Update password from the PHPMyAdmin](page/page-update-password-from-the-phpmyadmin.md)
+* [How to increase the Server Memory Limit](page/page-how-to-increase-the-server-memory-limit.md)
+* [How can I add new menu item in the Admin Dashboard](page/page-how-can-i-add-new-menu-item-in-the-admin-dashboard.md)
+* [Why I cant add link URL to Facebook domain?](page/page-why-i-cant-add-link-url-to-facebook-domain.md)
+* [How enable the HTTPs](page/page-how-enable-the-https.md)
+* [What is Booking fee?](page/page-what-is-booking-fee.md)
+* [The revenue & the earning in the dashboard?](page/page-what-is-the-revenue-the-earning-in-the-dashboard.md)
+* [Recommended images size for Mytravel script](page/page-recommended-images-size.md)
+* [IS IT POSSIBLE TO ADD GOOGLE ANALYTICS TO MY SITES?](page/page-add-google-analytics-to-my-sites.md)
+
 ## Flight manager
 
-* Flight Attribute (page/page-101.md)
-* Seat Type management (page/page-102.md)
-* Airport management (page/page-103.md)
-* Airline Management (page/page-104.md)
-* Create Flight-Ticket (page/page-105.md)
-* Flight manager (page/page-106.md)
+* [Flight Attribute](page/page-flight-attribute.md)
+* [Seat Type management](page/page-seat-type-management.md)
+* [Airport management](page/page-airport-management.md)
+* [Airline Management](page/page-airline-management.md)
+* [Create Flight-Ticket](page/page-create-flight-ticket.md)
+* [Flight manager](page/page-flight-manager.md)
+
 ## Wallet
 
-* Wallet for User (page/page-107.md)
+* [Wallet for User](page/page-wallet-for-user.md)
+
 ## Plugins
 
-* How to Obtain PayPal API Credentials (page/page-113.md)
+* [How to Obtain PayPal API Credentials](page/page-how-to-obtain-paypal-api-credentials.md)
+
