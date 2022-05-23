@@ -1,0 +1,1 @@
+<p><img src="/assets/images/326b61e8136e8968d718c0727d905b31.png" alt="" width="720" height="598" /></p>
