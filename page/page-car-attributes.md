@@ -1,3 +1,0 @@
-<p>Navigate to <strong>Dashboard &gt; Car &gt; Attributes</strong> to see Panel manage. And just need to enter Name of Attributes =&gt; press to <strong>Add New</strong> button, new Attribute will be created</p>
-<p>After creating, you have to go to Manage Term of that Attribute by Press to <strong>Manage Terms</strong> to add more Term for Attribute</p>
-<p><img class="size-full" src="/assets/images/85d99bb289e9c6036c57ebb82cd2d8c9.png" /> <img class="size-full" src="/assets/images/f6061e93c1a52259036f45a20894e10d.png" /></p>

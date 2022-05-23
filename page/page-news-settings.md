@@ -1,2 +1,0 @@
-<p>&ndash; &nbsp;<strong>News Settings</strong>: You can change some information on this Page Setting: Title, image banner, Some Widget on the sidebar, check the image below:</p>
-<p><img class="padding  " src="/assets/images/efeadf66b5e7d6c2be6c236468d8ace6.png" /></p>
