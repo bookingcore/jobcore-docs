@@ -1,8 +1,9 @@
-# BeCommerce 1.0
+# BeCommerce
 
 FREE and Open-source Ecommerce platform to build and run your business.
 
 ## Features:
+
 1. Laravel 9
 2. Cloud Storage: S3, Google Cloud Storage
 3. Multi Store Marketplace
@@ -13,16 +14,22 @@ FREE and Open-source Ecommerce platform to build and run your business.
 8. Multi currency
 9. Mobile App (Coming Soon)
 10. POS (Coming Soon)
-10. Multi-channel (Coming Soon)
+11. Multi-channel (Coming Soon)
 
 ## Payment Gateways:
-#### <input type="checkbox" value="1" checked> Paypal Express
-#### <input type="checkbox" value="1" checked readonly> Stripe Checkout
-#### <input type="checkbox" value="1" checked readonly> Two Checkout
-#### <input type="checkbox" value="1" checked readonly> Paypal Pro
-#### <input type="checkbox" value="1" checked readonly> Flutterwave Payment
-#### <input type="checkbox" value="1" checked readonly> Razorpay
 
-### Homepage: <a href="https://be-commerce.org" target="_blank">https://be-commerce.org </a>
-### Author: <a href="https://codecanyon.net/user/bookingcore" target="_blank">BC Vietnam Technology </a>
+#### &#x20;Paypal Express
 
+#### &#x20;Stripe Checkout
+
+#### &#x20;Two Checkout
+
+#### &#x20;Paypal Pro
+
+#### &#x20;Flutterwave Payment
+
+#### &#x20;Razorpay
+
+### Homepage: [https://be-commerce.org](https://be-commerce.org)
+
+### Author: [BC Vietnam Technology](https://codecanyon.net/user/bookingcore)
