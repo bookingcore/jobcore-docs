@@ -1,4 +1,6 @@
-# Summary
+# Table of contents 
+
+* [About Us] (README.md) 
 
 ## Installation
 
@@ -36,6 +38,7 @@
 ## Settings
 
 * [General Settings](page/page-be-general-settings.md)
+* [News settings](page/page-news-settings-1.md)
 
 ## Users manager
 
