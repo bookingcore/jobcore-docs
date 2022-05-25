@@ -1,18 +1,18 @@
 # Table of contents 
 
-* [About Us] (README.md) 
+* [Overview] (README.md) 
 
 ## Installation
 
-* [System Requirements](page/page-be-system-requirements.md)
-* [How to update BE to the newest version](page/page-how-to-update-be-to-the-newest-version.md)
-* [What’s included](page/page-whats-included-1.md)
-* [Installation System](page/page-installation-system-1.md)
+* [System Requirements](page/be-system-requirements.md)
+* [How to update BE to the newest version](page/how-to-update-be-to-the-newest-version.md)
+* [What’s included](page/whats-included-1.md)
+* [Installation System](page/installation-system-1.md)
 
 ## Menu
 
-* [Create a menu](page/page-create-a-menu.md)
-* [Add icon for menu](page/page-add-icon-for-menu-1.md)
+* [Create a menu](page/create-a-menu.md)
+* [Add icon for menu](page/add-icon-for-menu-1.md)
 
 ## Homepage blocks
 
@@ -37,8 +37,8 @@
 
 ## Settings
 
-* [General Settings](page/page-be-general-settings.md)
-* [News settings](page/page-news-settings-1.md)
+* [General Settings](page/be-general-settings.md)
+* [News settings](page/news-settings-1.md)
 
 ## Users manager
 

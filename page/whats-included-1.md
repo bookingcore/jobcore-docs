@@ -8,6 +8,6 @@
 </ul>
 <p>To find your license key/purchase code you need to log into your ThemeForest account and go to your &ldquo;Downloads&rdquo; page.</p>
 <p>Locate some of the premium Script you purchased in your &ldquo;Downloads&rdquo; list and click on the <strong>Download</strong> and next on the &ldquo;License Certificate&amp;purchase code&rdquo; link in the drop-down menu.</p>
-<img src="/assets/images/whats-included-1/34ee9684153244b94f33d1353078e0e7.png" alt="" width="688" height="462" /><br />
+<img src="/uploads/0000/30/2022/05/23/beupdate.png" alt="" width="688" height="462" /><br />
 <p>&nbsp;</p>
 </div>
