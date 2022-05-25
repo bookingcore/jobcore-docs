@@ -1,8 +1,8 @@
 # BeCommerce
 
-FREE and Open-source Ecommerce platform to build and run your business.
+BeCommerce is a FREE and Open-source Ecommerce platform to build and run your business.
 
-## Features:
+## Main Features:
 
 1. Laravel 9
 2. Cloud Storage: S3, Google Cloud Storage
@@ -32,4 +32,12 @@ FREE and Open-source Ecommerce platform to build and run your business.
 
 ### Homepage: [https://be-commerce.org](https://be-commerce.org)
 
-### Author: [BC Vietnam Technology](https://codecanyon.net/user/bookingcore)
+### Demo:
+1. Freshen Theme: [https://freshen.be-commerce.org](https://freshen.be-commerce.org)
+2. Axtronic Theme: [https://axtronic.be-commerce.org](https://axtronic.be-commerce.org)
+
+### Get Support: [Click here](https://bookingcore.org/be)
+
+### Join our Discord: [https://discord.gg/FBP3TuFXCe](https://discord.gg/FBP3TuFX)
+
+### Author: [BookingCore Team](https://codecanyon.net/user/bookingcore)
