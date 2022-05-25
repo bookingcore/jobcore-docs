@@ -16,7 +16,7 @@
 <li>PHP_CURL Module Enable&nbsp;</li>
 </ul>
 <p><strong>Minimum server</strong> space and RAM or processor, or resources are required on the hosting plan:&nbsp;<em><strong>&nbsp;RAM 2G, 1 CPU, 10GB Disk</strong></em></p>
-<p><img src="/uploads/0000/30/2022/02/05/st2.png" alt="" width="591" height="726" /></p>
+<p><img src="/assets/images/be-system-requirements/7b2e3d9c5b898af97582bc9a7731bde7.png" alt="" width="591" height="726" /></p>
 <h4>2. PHP Configuration&nbsp;</h4>
 <p>Open your php configuration file php.ini and change the following settings.</p>
 <p><em><strong>memory_limit = 64M </strong></em></p>

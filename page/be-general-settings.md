@@ -1,5 +1,5 @@
 <p>&ndash; &nbsp;<strong>Site Information</strong>: Allow you to upload a logo for your site on Top Header</p>
-<p><img src="/uploads/0000/30/2022/05/25/be-gen1.png" alt="" width="849" height="464" /></p>
+<p><img src="/assets/images/be-general-settings/295cb23db7a1bc1d52bcc0efa55ef0b3.png" alt="" width="849" height="464" /></p>
 <p>- <strong>Date Format</strong>: Enter the Date format that fits your Country</p>
 <p>Here we formatted the date with&nbsp;<code>'j M Y H:i:s A e'</code> so it gives</p>
 <ul>
@@ -19,8 +19,8 @@
 <li>The language bar is opened &amp; focused on the main language</li>
 <li>&nbsp;RTL option:&nbsp; is for the languages which are written from right to left like Arabic languages.</li>
 </ol>
-<p><img src="/uploads/0000/30/2022/05/25/be-gen2.png" alt="" width="856" height="464" /></p>
+<p><img src="/assets/images/be-general-settings/97b33e64b90ef3b1d6e504a59cb2146b.png" alt="" width="856" height="464" /></p>
 <p>&nbsp;</p>
 <p>&ndash; &nbsp;<strong>HomePage</strong>: Select the page that you want to set as Home Page</p>
-<p><img src="/uploads/0000/30/2022/05/25/be-gen3.png" alt="" width="836" height="254" /></p>
+<p><img src="/assets/images/be-general-settings/318e588d0e799179c756c16a188e83af.png" alt="" width="836" height="254" /></p>
 <p>&nbsp;&nbsp;</p>
