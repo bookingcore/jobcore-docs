@@ -1,4 +1,7 @@
-<p>Product<span style="color: #333333; font-family: sans-serif; font-size: 16px; background-color: #ffffff;"> brands are the primary way to group products within a brand.&nbsp;&nbsp;</span></p>
-<p>Navigate to&nbsp;<strong>Dashboard &gt; CATALOG &gt; Products &gt; Brand</strong>, this is a brand list of Products. On the right Panel, You can do&nbsp;<strong>Bulk Action</strong>(Delete, Trash) any brand or <strong>Search</strong>&nbsp;by name of Brand</p>
-<p>On Left Panel,&nbsp;<span style="background-color: #ffffff; color: #333333; font-family: sans-serif; font-size: 16px;">Here you can quickly and easily add a brand, just need to input the Name + Featured image:&nbsp;</span></p>
-<p><img src="/assets/images/brand-manager/bc3d2ba0cd5e194cdeb51db845fc6033.png" alt="" width="1125" height="691" /></p>
+Product brands are the primary way to group products within a brand.
+
+Navigate to **Dashboard &gt; CATALOG &gt; Products &gt; Brand**, this is a brand list of Products. On the right Panel, You can do **Bulk Action**(Delete, Trash) any brand or **Search** by name of Brand
+
+On Left Panel, Here you can quickly and easily add a brand, just need to input the Name + Featured image:
+
+![](/assets/images/brand-manager/bc3d2ba0cd5e194cdeb51db845fc6033.png)

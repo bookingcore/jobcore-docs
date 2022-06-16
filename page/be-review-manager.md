@@ -1,3 +1,5 @@
-<p>Customers who have purchased a product may leave a rating and review.&nbsp;&nbsp;<span style="background-color: #ffffff; color: #333333; font-family: sans-serif; font-size: 16px;">They also give customers a chance to pass feedback to our support and product development teams.</span></p>
-<p>Whether reviews are public or not,&nbsp; Admins can see reviews for products by logging in to the <strong>Dashboard &gt; SALE &gt; Reviews&nbsp;</strong></p>
-<p><img src="/assets/images/be-review-manager/00a9cdb9d6120977fb2521e57962d278.png" alt="" width="1182" height="608" /></p>
+Customers who have purchased a product may leave a rating and review. They also give customers a chance to pass feedback to our support and product development teams.
+
+Whether reviews are public or not, Admins can see reviews for products by logging in to the **Dashboard &gt; SALE &gt; Reviews**
+
+![](/assets/images/be-review-manager/00a9cdb9d6120977fb2521e57962d278.png)

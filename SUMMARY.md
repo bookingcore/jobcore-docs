@@ -2,12 +2,6 @@
 
 * [Overview](README.md) 
 
-## Payment
-
-* [OFFLINE PAYMENT](page/be-offline-payment.md)
-* [PAYPAL PAYMENT](page/paypal-payment.md)
-* [STRIPE PAYMENT](page/stripe-payment.md)
-
 ## Installation
 
 * [System Requirements](page/be-system-requirements.md)
@@ -52,19 +46,6 @@
 * [Sale Orders](page/sale-orders.md)
 * [Report Manager](page/report-manager.md)
 
-## Translation tool
-
-* [Language Manager](page/be-language-manager.md)
-* [Translations management](page/be-translations-management.md)
-
-## Multi Store
-
-* [Become a vendor](page/become-a-vendor.md)
-* [Start building a Store](page/start-building-a-store.md)
-* [Create a product on the Vendor store](page/create-a-product-on-the-vendor-store.md)
-* [Vendor Dashboard](page/vendor-dashboard.md)
-* [Vendor Orders Manager](page/vendor-orders-manager.md)
-
 ## Settings
 
 * [General Settings](page/be-general-settings.md)
@@ -85,20 +66,55 @@
 * [Styling Settings](page/be-styling-settings.md)
 * [Change the Google Font](page/change-the-google-font.md)
 
+## Payment
+
+* [OFFLINE PAYMENT](page/be-offline-payment.md)
+* [PAYPAL PAYMENT](page/paypal-payment.md)
+* [STRIPE PAYMENT](page/stripe-payment.md)
+
+## Multi Store
+
+* [Become a vendor](page/become-a-vendor.md)
+* [Start building a Store](page/start-building-a-store.md)
+* [Create a product on the Vendor store](page/create-a-product-on-the-vendor-store.md)
+* [Vendor Dashboard](page/vendor-dashboard.md)
+* [Vendor Orders Manager](page/vendor-orders-manager.md)
+
+## Files Manager
+
+* [Default File Manager](page/default-file-manager.md)
+
 ## Users manager
 
 * [Subscribles management](page/be-subscribles-management.md)
 * [Roles management](page/be-roles-management.md)
 
-## Files Manager
+## Translation tool
 
+* [Language Manager](page/be-language-manager.md)
+* [Translations management](page/be-translations-management.md)
 
-## Knowledge Base
+## Freshen
 
-
-## Changelog
-
-
-## Comming..
-
+* [Freshen Settings](page/cat-freshen-option.md)
+  * [Header settings](page/header-settings.md)
+  * [Footer Settings](page/footer-settings.md)
+  * [Product theme Settings](page/product-theme-settings.md)
+  * [Theme Styling settings](page/theme-styling-settings.md)
+* [Freshen Blocks](page/cat-freshen-blocks.md)
+  * [List Category Style 2](page/list-category.md)
+  * [List Category Style 1](page/list-category-1.md)
+  * [Instagram section](page/instagram.md)
+  * [Product: List Tab Category](page/product-list-tab-category.md)
+  * [Product: In Category](page/product-in-category.md)
+  * [Deliver Divider](page/deliver-divider.md)
+  * [Why Chose Us blocks](page/why-chose-us.md)
+  * [List Partner](page/list-partner.md)
+  * [Breadcrumb](page/freshenbreadcrumb.md)
+  * [Testimonial block](page/testimonial.md)
+  * [Our Teams block](page/our-teams.md)
+  * [About us Text](page/freshen-about-us-text.md)
+  * [Whats App block](page/whats-app.md)
+  * [List Logo](page/list-logo.md)
+  * [News block](page/news-block.md)
 
