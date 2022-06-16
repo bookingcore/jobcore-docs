@@ -1,12 +1,12 @@
 Before adding your first product, let’s get familiar with how product categories, tags, and attributes work.
 
-[Product Categories](/pageproduct-manager/products-category)
+[Product Categories](/page/products-category.md)
 
-[Attribute manager](/pageproduct-manager/attribute-manager)
+[Attribute manager](/page/attribute-manager.md)
 
-[Brand manager](/pageproduct-manager/brand-manager)
+[Brand manager](/page/brand-manager.md)
 
-[Tags manager](/pageproduct-manager/tags-manager)
+[Tags manager](/page/tags-manager.md)
 
 Adding a Simple product is similar to writing a post:
 

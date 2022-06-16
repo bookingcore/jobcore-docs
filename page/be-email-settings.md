@@ -2,7 +2,7 @@ Now we are supporting 9 mail servers: **SMTP, SENDMAIL, MAILGUN, MANDRILL, SES, 
 
 Below is a simple guide to Mailgun Config:
 
-1. Go to [this link to get mailgun API key](/page/settings-1/getting-your-mailgun-api-keys-and-secrets-setup)
+1. Go to [this link](/page/getting-your-mailgun-api-keys-and-secrets-setup.md) to get mailgun API key
 2. Scroll down to the Config Email Server, then enter some required information:
  
 ![](/assets/images/be-email-settings/3c1268e26d4495e4e247ffa6054482d9.png)

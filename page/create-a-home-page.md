@@ -8,7 +8,7 @@
 
 #### Using Template for Page
 
-The template is built only for specific pages, with lots of information with special styles, see [How to build homepage template.](/page/homepage-block/banner-slider-block)
+The template is built only for specific pages, with lots of information with special styles, see [How to build homepage template](/page/banner-slider-block.md).
 
 ![](/assets/images/create-a-home-page/b6f6a50ce5d00f853f4e906d58c9f722.png)
 

@@ -1,13 +1,3 @@
-Around Translations Manager
-
-- [Create a language and manages language](/pagetranslation-tool/be-language-manager)
-- [Translate the main text or use the local words](/pagetranslation-tool/translations-management)
-- [Enable Multi-Language on the site](/pagetranslation-tool/multi-language#enable-multi)
-- [Start to translate the site to a new language](/pagetranslation-tool/multi-language#start-multi)
-- [Translate the Attribute ](/pagetranslation-tool/multi-language#lang-attr)
- 
- 
-
 The First Step to building Multi-language is creating the Language for the site, **navigate to Dashboard &gt; Tools &gt; Language**
 
 to see the Language Panel

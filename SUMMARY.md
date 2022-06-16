@@ -83,6 +83,8 @@
 ## Files Manager
 
 * [Default File Manager](page/default-file-manager.md)
+* [Amazon S3 storage](page/aws-s3.md)
+* [Google cloud storage](page/g-cloud-storage.md)
 
 ## Users manager
 

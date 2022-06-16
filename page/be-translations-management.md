@@ -1,16 +1,8 @@
-Around Translations Manager
+ All our Becommerce Systems are translation-ready which means that you can easily translate them into any language you want. Here are some instructions:
 
-- [Create a language and manage](/page/translation-tool/languages-management)
-- [Set the main language and Enable Multi-Language](/page/translation-tool/multi-language#enable-multi)
-- [Translate the main text or use the local words](/page/translation-tool/translations-management)
-- [Use Multi-language on the site](/page/translation-tool/multi-language#start-multi)
-- [Translate the Attribute ](/page/translation-tool/multi-language#lang-attr)
- 
  
 
-All our Booking System are translation-ready which means that you can easily translate them into any language you want. Here are some instructions:
-
-**Step 1:** Navigate to ***Dashboard -&gt; Translation -&gt; Site language***, see the **Translated** column, it's 0/0. That's mean your site is empty.
+**Step 1:** Navigate to ***Dashboard -&gt; Translation -&gt; Site language***, see the **Translated** column, it's 0/0. That means your site is empty.
 
 ![](/assets/images/be-translations-management/90642da404e4e05cbe192cc0b2c2c79b.png)
 

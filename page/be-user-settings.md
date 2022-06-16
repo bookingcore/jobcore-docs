@@ -2,7 +2,7 @@
 
 **ReCaptcha for login/register form:** tick into the checkbox to allow Enable the ReCaptcha
 
-[](/page/settings-1/google-recaptcha)
+[*How to enable the Recaptcha option?*](/page/google-recaptcha.md)
 
 ![](/assets/images/be-user-settings/5acb019c53a7521115b3b36ad16d4dae.png)
 
