@@ -1,6 +1,7 @@
 # Table of contents 
 
-* [Overview](README.md) 
+* [Overview](README.md)
+* [Changelog](page/changelog.md)  
 
 ## Installation
 
