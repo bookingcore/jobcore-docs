@@ -4,7 +4,7 @@ After installing be-commerce, you need to config your web server's document webr
 
 **Administrator:  admin@becommerce.test**/ **Pass: admin123**
 
-###### Follow the steps below to install the Booking Core system.
+###### Follow the steps below to install the Becommerce system.
 
 **Step 1** – Unzip the downloaded package from Codecanyon. Find the folder **Becommerce** and inside it find the file **becommerce.zip** inside it.
 
@@ -12,9 +12,9 @@ After installing be-commerce, you need to config your web server's document webr
 
 ![](/assets/images/be-installation-system/6e48256e683820ba335d5ec90137bc35.png)
 
-**Step 3**: – Open Browser with link URL:  **http://linkURL.com/install** then Follow the panel to Install the Booking System
+**Step 3**: – Open Browser with link URL:  **http://linkURL.com/install** then Follow the panel to Install the Becommerce System
 
-This is some Serve information that is required for Booking System, please contact your Supporter if the system is failed
+This is some Serve information that is required for Becommerce System, please contact your Supporter if the system is failed
 
 ![](/assets/images/be-installation-system/28b27f968e9fc808d147a3b825cf8262.png)
 

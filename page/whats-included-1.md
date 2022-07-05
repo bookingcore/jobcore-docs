@@ -4,7 +4,7 @@ Our core platform is free, flexible, and amplified by a global community. The fr
 
 Whether you’re launching a business, taking brick-and-mortar retail online, or developing sites for clients, use Becommerce for a store that powerfully blends content and commerce
 
-If you choose Main Files, there will be a Booking Core Folder included:
+If you choose Main Files, there will be a Becommerce Folder included:
 
 - **Becommerce Folder** – contains the **becommerce.zip**
 - **Documentation Folder** – contains the **Document** for the system

@@ -72,6 +72,12 @@
 * [PAYPAL PAYMENT](page/paypal-payment.md)
 * [STRIPE PAYMENT](page/stripe-payment.md)
 
+## Files Manager
+
+* [Default File Manager](page/default-file-manager.md)
+* [Amazon S3 storage](page/aws-s3.md)
+* [Google cloud storage](page/g-cloud-storage.md)
+
 ## Multi Store
 
 * [Become a vendor](page/become-a-vendor.md)
@@ -80,11 +86,11 @@
 * [Vendor Dashboard](page/vendor-dashboard.md)
 * [Vendor Orders Manager](page/vendor-orders-manager.md)
 
-## Files Manager
+## News Manager
 
-* [Default File Manager](page/default-file-manager.md)
-* [Amazon S3 storage](page/aws-s3.md)
-* [Google cloud storage](page/g-cloud-storage.md)
+* [New Knowleage](page/new-knowleage.md)
+* [News Categories](page/news-categories.md)
+* [Creating News](page/be-create-news.md)
 
 ## Users manager
 
@@ -119,4 +125,24 @@
   * [Whats App block](page/whats-app.md)
   * [List Logo](page/list-logo.md)
   * [News block](page/news-block.md)
+
+## Axtronic
+
+* [Axtronic blocks](page/cat-axtronic-blocks.md)
+  * [News block](page/ax-news-block.md)
+  * [Product Tab](page/product-tab.md)
+  * [Product width Banner](page/product-width-banner.md)
+  * [Product feature](page/product-feature.md)
+  * [Product: List item](page/product-list-item.md)
+  * [Promotion block](page/ax-promotion-block.md)
+  * [Testimonial block](page/testimonial-block.md)
+  * [New Knowleage](page/new-knowleage-1.md)
+  * [Banner Text Slider block](page/banner-text-slider-block.md)
+  * [Category list block](page/ax-category-list.md)
+  * [Banner Text](page/banner-text-ax.md)
+  * [Brands](page/brands-section.md)
+  * [Featured Icon 2](page/ax-featured-icon.md)
+* [Axtronic Settings](page/cat-axtronic-settings.md)
+  * [Header settings](page/header-settings-1.md)
+  * [Footer settings](page/footer-settings-1.md)
 
