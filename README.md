@@ -4,17 +4,26 @@ BeCommerce is a FREE and Open-source Ecommerce platform to build and run your bu
 
 ## Main Features:
 
-1. Laravel 9
-2. Cloud Storage: S3, Google Cloud Storage
-3. Multi Store Marketplace
-4. Coupon Modules
-5. I18n and l10n tool ready
-6. Various Payment Methods
-7. Sale Campaign
-8. Multi currency
-9. Mobile App (Coming Soon)
-10. POS (Coming Soon)
-11. Multi-channel (Coming Soon)
+- Laravel 9
+- Cloud Storage: S3, Google Cloud Storage
+- Product Type: Simple, Grouped, Variable, External
+- Downloadable Product
+- Virtual Product (Coming Soon)
+- Multi Store Marketplace
+- Coupon Modules
+- I18n and l10n tool ready
+- Various Payment Methods
+- Sale Campaign
+- Multi currency
+- Mobile App (Coming Soon)
+- POS (Coming Soon)
+- Multi-channel Sale (Coming Soon)
+- Whole-sale (Coming Soon)
+- Auction (Coming Soon)
+- Popup Management (Coming Soon)
+- Import from Woocommerce (Coming Soon)
+- Sync to Facebook Shop (Coming Soon)
+- Email Campaign (Coming Soon)
 
 ## Payment Gateways:
 
