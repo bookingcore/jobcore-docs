@@ -1,4 +1,4 @@
-#### 1. Server Requirements
+# 1. Server Requirements
 
 - Apache, Nginx, or another compatible web server.
 - PHP &gt;= 8.0.2 &gt;&gt; Higher
@@ -47,3 +47,28 @@ If you are using Cpanel, you can follow this article to change your PHP memory l
 > On this project, we're using the latest Laravel version (currently 8.x). Please go to Laravel documentation page for more information.
 > 
 > It’s based on Laravel framework, the root folder for it is /public. You shouldn’t install it on a sub-folder, use sub-domain is better than sub-folder. (we won’t support to install our product on sub-folder) .
+
+[Civi Elements](#block-jobcat)
+==============================
+
+###### Dashboard > Templates > Build Template
+
+#### Job Categories
+
+This is the way it shows on Home page, there are 2 styles for list Job category:
+
+**Style 1:** The icon image is placed on the left side
+
+![](/assets/images/elements/jobcatlist.png)
+
+**Style 2:** The icon image is placed on the left side
+
+![](/assets/images/elements/jobcatlist2.png)
+
+**Style 3:** The icon image is centered above
+
+![](/assets/images/elements/jobcatlist3.png)
+
+To build this element, go to Template and find **Job Categories**, select style you need to use, input the **Title, sub-title, select the category you need to show in this section**
+
+![](/assets/images/elements/jobcatbk.png)
