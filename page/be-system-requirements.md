@@ -69,6 +69,6 @@ This is the way it shows on Home page, there are 2 styles for list Job category:
 
 ![](/assets/images/elements/jobcatlist3.png)
 
-To build this element, go to Template and find **Job Categories**, select style you need to use, input the **Title, sub-title, select the category you need to show in this section**
+To build this element, go to Template and find **Job Categories**, select style you need to use, input the **Title, sub-title, select the category you need to show in this section** 
 
 ![](/assets/images/elements/jobcatbk.png)
